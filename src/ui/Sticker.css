@@ -1,0 +1,11 @@
+.Sticker-Dark {
+  position: absolute;
+  background-color: #282c34;
+  border-radius: 40px;
+}
+
+.Sticker-Light {
+  position: absolute;
+  background-color: #eceff1;
+  border-radius: 40px;
+}

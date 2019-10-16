@@ -1,0 +1,38 @@
+.App-Dark {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex: 10;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-Light {
+  text-align: center;
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex: 10;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+.App-Sticker-Screen-Container {
+  flex: 8;
+  align-self: stretch;
+}
+
+.App-Switch-Button-Container {
+  flex: 1;
+}
+
+.App-Boring-Button-Container {
+  flex: 1;
+}

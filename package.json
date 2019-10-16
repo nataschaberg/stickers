@@ -9,7 +9,10 @@
     "@types/react-dom": "16.9.2",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
+    "react-responsive": "^8.0.1",
     "react-scripts": "3.2.0",
+    "react-switch": "^5.0.1",
+    "react-typing-effect": "^2.0.2",
     "typescript": "3.6.4"
   },
   "scripts": {

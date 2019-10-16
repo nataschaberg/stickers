@@ -1,0 +1,10 @@
+.Sticker-Screen {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Message-Tag {
+  background-color: red;
+}
