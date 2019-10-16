@@ -72,7 +72,10 @@ class App extends React.Component<Props, State> {
 
   render() {
     return (
-      <div className={this.state.darkTheme ? 'App-Dark' : 'App-Light'}>
+      <div
+        className={this.state.darkTheme ? 'App-Dark' : 'App-Light'}
+        data-testid="app-container"
+      >
         <div className="App-Switch-Button-Container">
           <SwitchButton
             handleSwitch={this.handleThemeSwitch}
